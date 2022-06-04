@@ -12,7 +12,7 @@
 Set of easy to use and fast tools to test or debug your shellcode. It includes 2 tools:
 
 * [**testMyShellcode/testMyShellcode_noNX**](testMyShellcode.c): To run your shellcode fast.
-* [**debugMyShellcode.sh**](debugMyShellcode.sh): To debug your shellcode fast.
+* [**debugMyShellcode.sh**](debugMyShellcode.sh): Uses gdb and testMyShellcode to debug your shellcode fast.
 
 ## Installation
 
@@ -43,3 +43,4 @@ cd debugMyShellcode
 	      	option will use "init-pwndbg" so make sure you have
 	      	set it up correctly in "~/.gdbinit"
   ```
+Then use gdb commands for debugging.
