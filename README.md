@@ -18,7 +18,6 @@ Set of easy to use and fast tools to test or debug your shellcode. It includes 2
 
 Run the following commands in bash:
 ```
-cd ~
 git clone https://github.com/dbd4/debugMyShellcode
 cd debugMyShellcode
 ./setup.sh
