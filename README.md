@@ -9,7 +9,7 @@
 
 ## Description
 
-Set of easy to use and fast tools to test or debug your shellcode. It includes 2 tools:
+Set of easy to use and fast tools to test or debug your shellcode. The tools included are:
 
 * [**testMyShellcode/testMyShellcode_noNX**](testMyShellcode.c): To run your shellcode fast.
 * [**debugMyShellcode.sh**](debugMyShellcode.sh): Uses gdb and testMyShellcode to debug your shellcode fast.
