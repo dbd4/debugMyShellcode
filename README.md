@@ -20,6 +20,7 @@ Run the following commands in bash:
 ```
 git clone https://github.com/dbd4/debugMyShellcode
 cd debugMyShellcode
+chmod +x debugMyShellcode.sh setup.sh
 ./setup.sh
 ```
 
