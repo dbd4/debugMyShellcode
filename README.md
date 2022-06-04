@@ -43,4 +43,4 @@ cd debugMyShellcode
 	      	option will use "init-pwndbg" so make sure you have
 	      	set it up correctly in "~/.gdbinit"
   ```
-Then use gdb commands for debugging.
+	Then use gdb commands for debugging.
